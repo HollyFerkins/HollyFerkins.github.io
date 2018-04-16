@@ -2,40 +2,50 @@ div{
     outline:1px solid black;
     margin-left: auto;
     margin-right: auto;
+    background-color:#231f20;
     
 }
 
 body{
     font-family: 'Amatic SC', cursive;
     text-align:center;
-    font-size: 70px;
+    font-size: 40px;
     text-decoration:none;
     margin:0px;
-    background-color:white;
+    background-color:#231f20;
+    color:white;
     
 }
 
 .header{
     width:1200px;
     height:380px;
-    color:white;
-    float:auto;
+    color:#231f20;
+    
 }
 
 .logobox{
-    width:380px;
+    width:1200px;
     height:380px;
+    color:#231f20
 }
 
-
+.logobox img{
+    width:1200px;
+    height:380px;
+   
+   
+}
 
 .nav{
-    font-style:;
+    font-style:normal;
+    color:#FFE1E5;
 }
+
 
 .links a{
     text-decoration: none;
-    color:black;
+    color:white;
     
     
 }
@@ -46,7 +56,13 @@ body{
 .links a:active{
     color:red;
 }
+.links a:visited{
+    color:hotpink;
+}
 
+.title{
+    
+}
 .motobox{
     background-color:#FCD9D1
     
@@ -56,24 +72,49 @@ body{
     width:1200px;
     height:790px;
     padding:20px;
-    background-color:white;
+    background-color:#231f20;
 }
 .photobox img{
     text-align: auto;
     width:570px;
     height:750px;
     margin:10px;
-}
-    
-.brandsbox{
-  background-color:#FFE1E5
-    
-  }  
-.othercolor{
-    color:white;
-}
-    
 
+   
+}
+
+
+.brandsbox{
+ color:white;
+ width:1200px;
+height:500px;
+    font-size:60px;
+  
+} 
+.brandbanner{
+    color:black;
+    height:140px;
+    width:1200px;
+    background-color:#e1bfbe;
+}
+.footerfont{
+    font-style: italic;
+    
+}
+
+.footfont2{
+    font-style:oblique;
+    font-size: 20px;
+    
+}
+    
+.boxes{
+    width:373px;
+    height:500px;
+    outline-color:hotpink;
+    outline-width: 10px;
+    margin:20px;
+}
 
 
 
