@@ -8,7 +8,7 @@ div{
 body{
     font-family: 'Amatic SC', cursive;
     text-align:center;
-    font-size: 50px;
+    font-size: 70px;
     text-decoration:none;
     margin:0px;
     background-color:white;
@@ -27,16 +27,53 @@ body{
     height:380px;
 }
 
+
+
 .nav{
-    max-width:1200px;
-    margin-left:auto;
-    margin-right:auto;
-    
-    
+    font-style:;
 }
 
-
-
-.black{
+.links a{
+    text-decoration: none;
     color:black;
+    
+    
 }
+
+.links a:hover{
+    color:pink;
+}
+.links a:active{
+    color:red;
+}
+
+.motobox{
+    background-color:#FCD9D1
+    
+}
+
+.photobox{
+    width:1200px;
+    height:790px;
+    padding:20px;
+    background-color:white;
+}
+.photobox img{
+    text-align: auto;
+    width:570px;
+    height:750px;
+    margin:10px;
+}
+    
+.brandsbox{
+  background-color:#FFE1E5
+    
+  }  
+.othercolor{
+    color:white;
+}
+    
+
+
+
+
