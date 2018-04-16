@@ -60,9 +60,7 @@ body{
     color:hotpink;
 }
 
-.title{
-    
-}
+
 .motobox{
     background-color:#FCD9D1
     
@@ -80,13 +78,12 @@ body{
     height:750px;
     margin:10px;
 
-   
 }
 
 
 .brandsbox{
  color:white;
- width:1200px;
+ width:auto;
 height:500px;
 font-size:60px;
   
@@ -94,18 +91,38 @@ font-size:60px;
 .brandbanner{
     color:black;
     height:140px;
-    width:1200px;
+    width:auto;
     background-color:#e1bfbe;
 }
 .footerfont{
     font-style: italic;
     
 }
-
-.footfont2{
-    font-style:oblique;
-    font-size: 20px;
+.container{
+    width:1200px;
+    height:3460px;
+    text-align: center;
+    padding-left: 20px;
+    padding-top:20px;
     
 }
+.square{
+width:373px;
+height:450px;
+float:left;
+text-align: center;
+margin:10px;
 
- 
+}
+ .square img{
+width:373px;
+height:450px;
+}
+.textbox{
+    width:373px;
+height:100px;
+float:left;
+text-align: center;
+margin:10px;
+    
+}
