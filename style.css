@@ -111,7 +111,7 @@ font-size:60px;
 .container1{
       width:1200px;
       height:490px;
-      float:left;
+      text-align: center;
       
      
     
@@ -120,7 +120,7 @@ font-size:60px;
 .icon{
     width:570px;
     height:215px;
-    float:left;
+    text-align: center;
     margin:15px;
     float: left;
     background-color: lightpink;
@@ -141,6 +141,7 @@ font-size:60px;
 }
 .footerfont{
     font-style: italic;
+    float:left;
     
 }
 .container{
