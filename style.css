@@ -105,9 +105,7 @@ background-color:white;
     
 }
 .maintext{
-    color:black;
-    background-color:white;
-    font-family: 'Jua', sans-serif;
+    color:white;
     width:1200px;
     height:100px;
     
@@ -115,7 +113,7 @@ background-color:white;
 .container1{
       width:1200px;
       height:490px;
-      background-color:white;
+      
      
     
 }
@@ -196,7 +194,8 @@ height:450px;
 .paragraph{
     font-family: 'Open Sans Condensed', sans-serif;
     width:1200px;
-    height:1800px;
+    height:1600px;
+    font-size:40px;
 }
 .title{
     text-decoration: underline;
