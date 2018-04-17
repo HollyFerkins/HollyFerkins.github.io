@@ -94,6 +94,54 @@ font-size:60px;
     width:auto;
     background-color:#e1bfbe;
 }
+
+
+.titlebox{
+ 
+width:1200px;
+height:100px;
+background-color:white;
+    
+    
+}
+.maintext{
+    color:black;
+    background-color:white;
+    font-family: 'Jua', sans-serif;
+    width:1200px;
+    height:100px;
+    
+}
+.container1{
+      width:1200px;
+      height:490px;
+      background-color:white;
+     
+    
+}
+
+.icon{
+    width:570px;
+    height:215px;
+    float:left;
+    margin:15px;
+    float: left;
+    background-color: lightpink;
+
+}
+
+.icon img{
+    float: left;
+    width:200px;
+    height:215px;
+}
+.text{
+    text-align:right;
+    background-color: lightpink;
+    color:black;
+    
+}
+}
 .footerfont{
     font-style: italic;
     
@@ -125,4 +173,23 @@ float:left;
 text-align: center;
 margin:10px;
     
+}
+.aboutbox{
+    width:1200px;
+    height:1800px;
+    background-color:white;
+}
+
+.storepics{
+    float:left;
+    text-align: center;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:1px;
+    
+    
+}
+.storepics img{
+width:373px;
+height:450px;
 }
