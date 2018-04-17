@@ -204,3 +204,18 @@ height:450px;
     font-style:oblique;
     
 }
+.newarrival{
+    width:1200px;
+    height:1000px;
+}
+boxkt img{
+    float:right;
+    margin:10px;
+}
+.textkt{
+    width:600px;
+    float:left;
+    font-size:20px;
+    background-color:peachpuff;
+    color:black;
+}
