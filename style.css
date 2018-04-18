@@ -54,16 +54,32 @@ body{
     color:pink;
 }
 .links a:active{
-    color:red;
+    color:purple;
 }
 .links a:visited{
-    color:hotpink;
+    color:skyblue;
 }
 
 
 .motobox{
     background-color:#FCD9D1
+        
+
     
+}
+
+.links2 a{
+    text-decoration: none;
+    color:pink;
+    
+    
+}
+.links2 a:hover{
+    color:deeppink;
+}
+.links2 a:visited{
+    color:skyblue;
+}
 }
 
 .photobox{
